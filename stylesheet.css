@@ -1,0 +1,101 @@
+body {
+    background-color: lightsteelblue;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+}
+a:hover {
+    background: black;
+    color: blanchedalmond;
+}
+
+ul {
+    color: darkslategray;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    color: darkgreen;
+    padding-left: 800px;
+    font-size: 20px;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.headerabout {
+    color: darkgreen;
+    padding-left: 750px;
+    font-size: 20px;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.headerhobby {
+    color: darkgreen;
+    padding-left: 750px;
+    font-size: 20px;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.headerworks {
+    color: darkgreen;
+    padding-left: 750px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contents {
+    padding-top: 150px;
+    padding-left: 400px;
+    color : rgb(0, 0, 0);
+}
+
+.contentsabout {
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 400px;
+    color : rgb(0, 0, 0);
+    font-family: 'PT Serif', serif;
+}
+
+.contentsworks {
+    padding-top: 30px;
+    padding-left: 100px;
+    color : rgb(0, 0, 0);
+    font-family: 'PT Serif', serif;
+}
+
+.contentshobby {
+    padding-top: 30px;
+    padding-left: 100px;
+    color : rgb(0, 0, 0);
+    font-family: 'PT Serif', serif;
+}
+
+.name {
+    font-family: 'PT Serif', serif;
+}
+
+.quotes {
+    font-family: 'Krona One', sans-serif;
+}
+
+.myskillsinterest {
+    padding-left :100px;
+    padding-bottom: -300px;
+    display: inline-block;
+}
+
+.myskillsinterest .kiri {
+    display: inline-block;
+}
+
+.myskillsinterest .kanan {
+    padding-left: 300px;
+    display: inline-block;
+}
+
+.fas fa-camera-retro fa-3x
